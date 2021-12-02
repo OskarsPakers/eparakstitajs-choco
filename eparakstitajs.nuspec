@@ -2,8 +2,14 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>eparakstitajs3</id>
+    <title>eParakstītājs 3.0</title>
     <version>1.5.19</version>
     <description>The eParakstītājs allows the user to create and sign electronic documents, as well as to check the electronically signed documents. A document may be electronically signed by persons who have eSeal+, eSignature card or eID card with valid electronic signature and authentication certificates. eParakstītājs uses the OpenXML format for the creation of electronic documents.</description>
     <authors>LVRTC</authors>
+    <tags>eid esignature eidas</tags>
+    <projectUrl>https://www.eparaksts.lv/en/Downloads</projectUrl>
+    <iconUrl>https://www.eparaksts.lv/download/ePmobile_jauna_ikona_08102020_172814.png</iconUrl>
+    <licenceUrl>https://www.eparaksts.lv/en/about_us/repository/TXCPS</licenceUrl>
+    <docsUrl>https://www.eparaksts.lv/files/ep3updates/eparakstitajs3-user-en.pdf</docsUrl>
   </metadata>
 </package>

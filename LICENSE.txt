@@ -1,0 +1,42 @@
+﻿From: https://www.eparaksts.lv/en/about_us/repository/TXCPS
+
+LICENSE
+
+ARAKSTĪTĀJS 3 SOFTWARE LICENSE TERMS
+
+The licensed product: eParakstītājs 3.0 software
+Owner of the product: VAS "Latvijas Valsts radio un televīzijas centrs" (hereinafter referred to as "LVRTC"), registration no. 40003011203.
+E-Parakstītājs 3.0 software (hereinafter referred to as "Software") License Terms (hereinafter referred to as "Terms") refer to the above Software, as well as to the media (if any) used to deliver the Software to you. 
+With the Software license (hereinafter referred to as "License") you get a license to use the Software according to these Terms.
+By using the Software, you agree to these Terms and undertake to follow them. These Terms apply to the Software updates, supplements, Internet-based services and support for this Software provided by LVRTC unless other terms are applied to the above activities.
+If you do not accept these Terms, please do not use the Software.
+By accepting these Terms, you agree to meet license terms of any other software available to you as mentioned below and related to the Software.
+1.	RIGHTS TO INSTALL AND USE THE SOFTWARE. LVRTC provides you with non-exclusive and limited rights to install and use the Software on computers owned by you.
+ 1.1.	You may run the Software for your own, including commercial, use.
+ 1.2.	INTERNET-BASED SERVICES. LVRTC provides Internet-based services for the Software. At any time, they may be changed or provision thereof stopped. Notifications of any changes in the provision of these services or discontinuation thereof are published on the www.eparaksts.lv site.
+2.	LICENSE CONTENT. The Software is licensed not sold. The License gives you individual rights to use the Software while LVRTC owns any ownership right regarding the Software, including those concerning copyright. By using the Software you have to adapt to any technical limitations required by the Software. You may not:
+ 2.1.	Try to circumvent the technical limitations included in the Software,
+ 2.2.	Modify (reverse engineer, decompile, disassemble) the Software except in cases permitted in laws and regulations.
+ 2.3.	Transfer (for or without a fee) the Software to any other person except in cases provided in the Terms.
+3.	SUPPORT SERVICES. The Software is provided "as is". Any support services to the Software are available to the extent they are provided by LVRTC.
+4.	ENTIRE LICENSE. The License applies to the terms of use of the Software fixes, updates, supplements, Internet-based services and support services and comprises a complete agreement on the Software and its support services.
+5.	APPLICABLE LAW. The acquisition and use of the Software is governed by effective laws and regulations and international treaties.
+6.	LEGAL EFFECT. The Terms define the legal rights granted to you. 
+7.	WARRANTY TERMS. The Software is licensed "as is". You take all risks of using thereof. In relation with the use of the Software, LVRTC does not provide any guarantees or additional conditions except those provided by these Terms.
+8.	LIMITATION OF LIABILITY. As a user of a licensed Software you do not receive any guarantee of the Software quality and LVRTC does not take any liability for a damage caused by the Software to the extent permitted by applicable law.
+9.	RELATED SOFTWARE. The Software contains a related third-party software. By deciding to install the Software, you agree to follow also the license terms of the related software. The Software is subject to the following third-party licenses (to read the provisions of the third party licenses, please go to: https://www.eparaksts.lv/lv/par_mums/repozitarijs/eparakstitajs_lic_noteik):
+ 9.1.	E-ME software license terms, eDoc Java libraries
+ 9.2.	GEMALTO middleware license (Gemalto EULA) 
+ 9.3.	eID middleware license 
+ 9.4.	Code from pcsc-lite
+ 9.5.	OpenSC libraries
+ 9.6.	GNU LESSER GENERAL PUBLIC LICENSE v2.1
+ 9.7.	OpenJPEG LICENSE
+ 9.8.	Aspose EULA
+ 9.9.	Oracle Binary Code License Agreement for the Java SE Platform Products and JavaFX
+ 9.10.	Java 3rd party Agreements
+ 9.11.	The Legion Of The Bouncy Castle license
+ 9.12.	Apache License, Version 2.0
+ 9.13.	Sun Microsystems, Inc. ("Sun") SOFTWARE LICENSE AGREEMENT and ENTITLEMENT for SOFTWARE
+ 9.14.	Sun Microsystems, Inc. Binary Code License Agreement
+ 9.15.	Software developed by IAIK of Graz University of Technology
